@@ -2,4 +2,5 @@ A repository for personal projects, intended as a work portfolio. Will be update
 The following skills are featured:
  - Python
  - Machine Learning
+ - Deep Learning
  - PowerBI
